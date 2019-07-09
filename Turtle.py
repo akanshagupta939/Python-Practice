@@ -24,7 +24,7 @@ turtle1.penup()
 turtle1.goto(-250,100)
 turtle1.pendown()
 
-
+#blah
 
 #Turtle 2
 turtle2=Turtle()
